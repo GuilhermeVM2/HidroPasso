@@ -1,0 +1,6 @@
+{
+  "name": "HidroPasso — Cálculo Reverso de Tubulação",
+  "description": "Aplicativo interativo para estudantes aprenderem a calcular o diâmetro de um cano a partir do volume do reservatório, tempo de enchimento e velocidade da água em 5 passos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
